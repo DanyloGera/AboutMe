@@ -98,6 +98,10 @@ header img:hover {
   border-radius: 20px;
   text-align: center;
   margin: 10px;
+  transition: background-color 0,3 ease;
+}
+.first-title:hover {
+    background-color: #FF851B;
 }
 .second-title {
   background-color: #7FDBFF;
