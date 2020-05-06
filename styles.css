@@ -131,11 +131,16 @@ transition: background-color 0.3s ease-out, transform 1s ease;
   background-color: #0399ff;
   transform: rotateX(5px);
 }
-
+.transition-blue {
+    transition: background-color 0.3s ease-out, transform 0.3s ease;
+}
 .tag-blue  {
   background-color: #0399ff;
 }
-
+  .tag-blue:hover {
+    background-color: #ff9904;
+    transform: rotateX(5px);
+}
 .content {
   display: flex;
   flex-flow: row;
