@@ -99,9 +99,6 @@ header img:hover {
   text-align: center;
   margin: 10px;
 }
-.transition-first {
-  transition: background-color 0,5s ease-out;
-}
 .first-title:hover {
     background-color: #FF851B;
 }
