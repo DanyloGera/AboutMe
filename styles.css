@@ -96,6 +96,7 @@ header img:hover {
   background-color: #FFDC00;
   width: 200px;
   border-radius: 20px;
+  text-align: center;
 }
 
 .tag-yellow {
