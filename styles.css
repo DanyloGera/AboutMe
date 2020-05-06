@@ -97,6 +97,7 @@ header img:hover {
   width: 200px;
   border-radius: 20px;
   text-align: center;
+  margin: 10px;
 }
 .second-title {
   background-color: #7FDBFF;
