@@ -66,7 +66,9 @@ header img:hover {
   transform: scale(1.2) rotate(5deg);
 
 }
-
+.transition {
+  transition: background-color 0.3s ease-out, color 0.3s ease;
+}
 .tag {
   background-color: #fff;
   display: table;
