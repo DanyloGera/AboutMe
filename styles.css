@@ -129,7 +129,7 @@ transition: background-color 0.3s ease-out, transform 1s ease;
 }
 .tag-yellow:hover {
   background-color: #0399ff;
-  transform: scaleX(30deg);
+  transform: skewX(30deg);
 }
 .transition-blue {
     transition: background-color 0.3s ease-out, transform 0.3s ease;
@@ -139,7 +139,7 @@ transition: background-color 0.3s ease-out, transform 1s ease;
 }
   .tag-blue:hover {
     background-color: #ff9904;
-    transform: scaleX(30deg);
+    transform: skewX(30deg);
 }
 .content {
   display: flex;
