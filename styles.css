@@ -92,6 +92,10 @@ header img:hover {
   color: #fff;
   border: 4px solid #fff;
 }
+.first-title {
+  background-color: #FFDC00;
+}
+
 .tag-yellow {
   background-color: #ff9904;
 }
