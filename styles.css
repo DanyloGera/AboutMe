@@ -98,6 +98,12 @@ header img:hover {
   border-radius: 20px;
   text-align: center;
 }
+.second-title {
+  background-color: #7FDBFF;
+  width: 200px;
+  border-radius: 20px;
+  text-align: center;
+}
 
 .tag-yellow {
   background-color: #ff9904;
