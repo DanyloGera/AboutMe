@@ -106,12 +106,19 @@ header img:hover {
     background-color: #FF851B;
     transform: translateY(-7px);
 }
+.transition-second {
+transition: background-color 0.3s ease-out, transform 1s ease;
+}
 .second-title {
   background-color: #7FDBFF;
   width: 200px;
   border-radius: 20px;
   text-align: center;
   margin: 10px;
+}
+.transition-second {
+  background-color: #0074D9;
+  transform: translateY(-7px);
 }
 
 .tag-yellow {
