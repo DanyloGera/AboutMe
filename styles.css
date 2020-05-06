@@ -105,7 +105,7 @@ header img:hover {
 }
 .first-title:hover {
     background-color: #FF851B;
-    transform: translateY(5px);
+    transform: translateY(-7px);
 }
 .second-title {
   background-color: #7FDBFF;
