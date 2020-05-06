@@ -83,7 +83,10 @@ header img:hover {
   background-color: #000;
   color: yellow;
 }
-
+.sub-title:hover {
+  background-color: #fff;
+  color: #000;
+}
 .tag-yellow {
   background-color: #ff9904;
 }
