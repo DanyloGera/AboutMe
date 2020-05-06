@@ -93,7 +93,7 @@ header img:hover {
   border: 4px solid #fff;
 }
 .transition-first {
-  transition: background-color 0.3s ease-out; 
+  transition: background-color 0.3s ease-out;
 }
 .first-title {
   background-color: #FFDC00;
@@ -101,9 +101,11 @@ header img:hover {
   border-radius: 20px;
   text-align: center;
   margin: 10px;
+  transition: transform 1s ease;
 }
 .first-title:hover {
     background-color: #FF851B;
+    transform: translateY(5px);
 }
 .second-title {
   background-color: #7FDBFF;
